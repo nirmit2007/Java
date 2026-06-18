@@ -12,6 +12,6 @@ public class Calculator
         System.out.println("Addition        : " + add);
         System.out.println("Subtraction     : " + sub);
         System.out.println("Multiplication  : " + mul);
-        System.out.println("Division         : " + div);
+        System.out.println("Division        : " + div);
     }
 }
