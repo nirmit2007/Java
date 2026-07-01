@@ -1,0 +1,15 @@
+====================================================================================================================
+Data Type   |	Size		     |	Range / Precision
+====================================================================================================================
+byte	    |	1 byte (8 bits)	     |	-128 to 127
+short	    |	2 bytes (16 bits)    |	-32,768 to 32,767
+int	    |	4 bytes (32 bits)    | 	-2³¹ to 2³¹ − 1 (-2,147,483,648 to 2,147,483,647)
+long	    |	8 bytes (64 bits)    |	-2⁶³ to 2⁶³ − 1 (-9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
+float	    |	4 bytes (32 bits)    |	up to 6–7 decimal digits
+double	    |	8 bytes (64 bits)    |	up to 15–16 decimal digits
+char	    |	2 bytes (16 bits)    |	Single Unicode character('\u0000' to '\uFFFF')
+boolean	    |	1 bit*		     |	true or false   
+
+
+              
+                     |
