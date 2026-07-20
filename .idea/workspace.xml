@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e659af9e-d924-4988-b9ca-97f96428d440" name="Changes" comment="Loop">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e659af9e-d924-4988-b9ca-97f96428d440" name="Changes" comment="OOPS">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java Recording.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java Recording.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/StudentDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_Session/OperatreDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice_Session/OperatreDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,69 +33,69 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {}
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nirmit2007/Java.git",
-    "accountId": "af0bddfe-a0ca-464a-bd89-339e301f7c27"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nirmit2007/Java.git&quot;,
+    &quot;accountId&quot;: &quot;af0bddfe-a0ca-464a-bd89-339e301f7c27&quot;
   }
-}]]></component>
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0132568681189922" />
-      <entry key="MS500" value="1.6472990704930668" />
-      <entry key="S2" value="3.545177295127067" />
-      <entry key="S5" value="5.367800685714804" />
-      <entry key="S10" value="6.465672079362834" />
-      <entry key="S30" value="8.073905468888212" />
-      <entry key="S60" value="10.402188181801838" />
-      <entry key="M2" value="13.946319736093107" />
-      <entry key="M5" value="23.53313680619377" />
-      <entry key="M10" value="45.88468054494103" />
-      <entry key="M15" value="70.99136960797631" />
-      <entry key="M30" value="134.4769906490914" />
-      <entry key="H1" value="203.91741962267628" />
-      <entry key="H2" value="257.86956145007633" />
-      <entry key="H4" value="291.94242279350004" />
-      <entry key="D1" value="324.8603988231193" />
-      <entry key="W1" value="330.96802584797314" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000615431035" />
+      <entry key="S2" value="1.0311834893662437" />
+      <entry key="S5" value="1.5187990556493436" />
+      <entry key="S10" value="2.428405588092268" />
+      <entry key="S30" value="4.913076645561851" />
+      <entry key="S60" value="9.844845139875424" />
+      <entry key="M2" value="21.13450973621721" />
+      <entry key="M5" value="43.065059964016" />
+      <entry key="M10" value="62.820190423880945" />
+      <entry key="M15" value="79.70384926859667" />
+      <entry key="M30" value="130.93032774665642" />
+      <entry key="H1" value="226.750582222424" />
+      <entry key="H2" value="352.85781526534623" />
+      <entry key="H4" value="465.30110770489284" />
+      <entry key="D1" value="603.6751503024259" />
+      <entry key="W1" value="632.9382330836287" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.2280316887887756E-249" />
-      <entry key="S2" value="6.600120969063108E-63" />
-      <entry key="S5" value="1.8259934996843982E-25" />
-      <entry key="S10" value="5.910593492258366E-13" />
-      <entry key="S30" value="1.3253640955306924E-4" />
-      <entry key="S60" value="0.016344361013611426" />
-      <entry key="M2" value="0.2035304614935293" />
-      <entry key="M5" value="1.751051982334618" />
-      <entry key="M10" value="5.7960004411875055" />
-      <entry key="M15" value="10.071162318493911" />
-      <entry key="M30" value="20.3506364971698" />
-      <entry key="H1" value="31.252580702735845" />
-      <entry key="H2" value="39.61028808591417" />
-      <entry key="H4" value="44.85640651742342" />
-      <entry key="D1" value="49.906673318468876" />
-      <entry key="W1" value="50.84200979470664" />
+      <entry key="MS100" value="4.587928304719096E-30" />
+      <entry key="MS500" value="1.356198702418599E-6" />
+      <entry key="S2" value="0.034135401794252" />
+      <entry key="S5" value="0.2693363785935237" />
+      <entry key="S10" value="0.641913765976687" />
+      <entry key="S30" value="1.9710201934223452" />
+      <entry key="S60" value="3.6574474415395324" />
+      <entry key="M2" value="6.375658608384668" />
+      <entry key="M5" value="10.55016165400467" />
+      <entry key="M10" value="14.107031850586553" />
+      <entry key="M15" value="17.519705302859375" />
+      <entry key="M30" value="27.89682285757957" />
+      <entry key="H1" value="45.51707337167422" />
+      <entry key="H2" value="67.15186536196128" />
+      <entry key="H4" value="85.83928024989423" />
+      <entry key="D1" value="108.43966046402642" />
+      <entry key="W1" value="113.18097805342686" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7841150130952377" />
-      <entry key="MS500" value="1.567158256975739" />
-      <entry key="S2" value="3.500984519165507" />
-      <entry key="S5" value="5.339906375437281" />
-      <entry key="S10" value="6.448571430844432" />
-      <entry key="S30" value="8.066891346958018" />
-      <entry key="S60" value="10.413733362306177" />
-      <entry key="M2" value="14.144648392185916" />
-      <entry key="M5" value="25.26839194597723" />
-      <entry key="M10" value="51.64886791739668" />
-      <entry key="M15" value="81.02287611503884" />
-      <entry key="M30" value="154.78495961220497" />
-      <entry key="H1" value="235.13650078779295" />
-      <entry key="H2" value="297.45845329932916" />
-      <entry key="H4" value="336.78667780087716" />
-      <entry key="D1" value="374.76481430770497" />
-      <entry key="W1" value="381.8097069505662" />
+      <entry key="MS100" value="0.007442484359718262" />
+      <entry key="MS500" value="0.3752700432128161" />
+      <entry key="S2" value="0.8283831600834997" />
+      <entry key="S5" value="1.6033235405859942" />
+      <entry key="S10" value="2.899779831215786" />
+      <entry key="S30" value="6.726458876634712" />
+      <entry key="S60" value="13.344100858903538" />
+      <entry key="M2" value="27.359843474463904" />
+      <entry key="M5" value="53.506859635569434" />
+      <entry key="M10" value="76.84885494130647" />
+      <entry key="M15" value="97.15381732674432" />
+      <entry key="M30" value="158.7649797687846" />
+      <entry key="H1" value="272.2141692697991" />
+      <entry key="H2" value="419.96969700828663" />
+      <entry key="H4" value="551.1147986697523" />
+      <entry key="D1" value="712.1094323476443" />
+      <entry key="W1" value="746.118409633136" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -108,18 +112,29 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DefaultDemo.executor": "Run",
     "Application.Demo1.executor": "Run",
+    "Application.EmployeeData.executor": "Run",
+    "Application.IdentityMatrix.executor": "Run",
     "Application.JaggedArray.executor": "Run",
     "Application.MatrixDemo.executor": "Run",
     "Application.MatrixSum.executor": "Run",
+    "Application.OverloadingConst.executor": "Run",
+    "Application.ParaConst.executor": "Run",
     "Application.RowColSum.executor": "Run",
+    "Application.SpiralMatrix.executor": "Run",
     "Application.StudentDemo1.executor": "Run",
+    "Application.StudentInfo.executor": "Run",
+    "Application.StudentInfo1.executor": "Run",
+    "Application.StudentTestApp1.executor": "Run",
+    "Application.TestApp1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -153,7 +168,11 @@
       <workItem from="1783939569846" duration="2259000" />
       <workItem from="1783941870526" duration="525000" />
       <workItem from="1783942416293" duration="37000" />
-      <workItem from="1784025924382" duration="2815000" />
+      <workItem from="1784025924382" duration="6556000" />
+      <workItem from="1784112439810" duration="2690000" />
+      <workItem from="1784284814290" duration="2293000" />
+      <workItem from="1784287137764" duration="966000" />
+      <workItem from="1784543960769" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="Loop">
       <option name="closed" value="true" />
@@ -179,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783941960088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOPS">
+      <option name="closed" value="true" />
+      <created>1784028805327</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1784028805327</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +216,7 @@
     <MESSAGE value="Array And Loop" />
     <MESSAGE value="Array" />
     <MESSAGE value="Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Loop" />
+    <MESSAGE value="OOPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOPS" />
   </component>
 </project>
