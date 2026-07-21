@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e659af9e-d924-4988-b9ca-97f96428d440" name="Changes" comment="OOPS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Constructor-Problem Statement_ Product Management System.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/src/Constructor/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/src/Constructor/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/src/Encapsulation2/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/src/Encapsulation2/StudentTestApp1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/ArrayDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/JaggedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/MatrixDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/MatrixSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/OddEven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/RowColSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Practice/IdentityMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Practice/SpiralMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/CopyConst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/DefaultDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/OverloadingConst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/ParaConst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/EmployeeData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInfo2$StudentInput1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInfo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInput1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInput2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation2/StudentTestApp1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" beforeDir="false" />
-    </list>
+    <list default="true" id="e659af9e-d924-4988-b9ca-97f96428d440" name="Changes" comment="OOPS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,6 +177,7 @@
       <workItem from="1784607637437" duration="2700000" />
       <workItem from="1784630070508" duration="1871000" />
       <workItem from="1784631974080" duration="30000" />
+      <workItem from="1784633163908" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="Loop">
       <option name="closed" value="true" />
