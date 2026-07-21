@@ -5,14 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e659af9e-d924-4988-b9ca-97f96428d440" name="Changes" comment="OOPS">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Recording.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java Recording.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPS/src/StudentDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Session/OperatreDemo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice_Session/OperatreDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Constructor-Problem Statement_ Product Management System.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/Constructor/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOPS/src/Constructor/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/Encapsulation2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPS/src/Encapsulation2/StudentTestApp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/ArrayDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/JaggedArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/MatrixDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/MatrixSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/OddEven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Array/RowColSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Practice/IdentityMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Practice/SpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/CopyConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/DefaultDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/OverloadingConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Constructor/ParaConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/EmployeeData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInfo2$StudentInput1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInfo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInput1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation/StudentInput2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation2/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Encapsulation2/StudentTestApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/OOPS/StudentDemo1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,63 +59,67 @@
     &quot;accountId&quot;: &quot;af0bddfe-a0ca-464a-bd89-339e301f7c27&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000615431035" />
-      <entry key="S2" value="1.0311834893662437" />
-      <entry key="S5" value="1.5187990556493436" />
-      <entry key="S10" value="2.428405588092268" />
-      <entry key="S30" value="4.913076645561851" />
-      <entry key="S60" value="9.844845139875424" />
-      <entry key="M2" value="21.13450973621721" />
-      <entry key="M5" value="43.065059964016" />
-      <entry key="M10" value="62.820190423880945" />
-      <entry key="M15" value="79.70384926859667" />
-      <entry key="M30" value="130.93032774665642" />
-      <entry key="H1" value="226.750582222424" />
-      <entry key="H2" value="352.85781526534623" />
-      <entry key="H4" value="465.30110770489284" />
-      <entry key="D1" value="603.6751503024259" />
-      <entry key="W1" value="632.9382330836287" />
+      <entry key="MS100" value="1.0000000167646779" />
+      <entry key="MS500" value="1.0278534529967804" />
+      <entry key="S2" value="1.4085260553663201" />
+      <entry key="S5" value="1.6990382701165623" />
+      <entry key="S10" value="1.8420647267323127" />
+      <entry key="S30" value="2.3237534269230675" />
+      <entry key="S60" value="3.7181551429032114" />
+      <entry key="M2" value="8.176705040435504" />
+      <entry key="M5" value="22.090691402223474" />
+      <entry key="M10" value="36.897544221256936" />
+      <entry key="M15" value="49.35043214927936" />
+      <entry key="M30" value="91.00707142023191" />
+      <entry key="H1" value="182.15580712968216" />
+      <entry key="H2" value="322.1395567513003" />
+      <entry key="H4" value="462.086625803884" />
+      <entry key="D1" value="650.0373693517287" />
+      <entry key="W1" value="691.7252655392266" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="4.587928304719096E-30" />
-      <entry key="MS500" value="1.356198702418599E-6" />
-      <entry key="S2" value="0.034135401794252" />
-      <entry key="S5" value="0.2693363785935237" />
-      <entry key="S10" value="0.641913765976687" />
-      <entry key="S30" value="1.9710201934223452" />
-      <entry key="S60" value="3.6574474415395324" />
-      <entry key="M2" value="6.375658608384668" />
-      <entry key="M5" value="10.55016165400467" />
-      <entry key="M10" value="14.107031850586553" />
-      <entry key="M15" value="17.519705302859375" />
-      <entry key="M30" value="27.89682285757957" />
-      <entry key="H1" value="45.51707337167422" />
-      <entry key="H2" value="67.15186536196128" />
-      <entry key="H4" value="85.83928024989423" />
-      <entry key="D1" value="108.43966046402642" />
-      <entry key="W1" value="113.18097805342686" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.5294358061089365E-204" />
+      <entry key="S2" value="1.458851301781956E-51" />
+      <entry key="S5" value="4.630637056567449E-21" />
+      <entry key="S10" value="6.896834498976132E-11" />
+      <entry key="S30" value="6.271499728312677E-4" />
+      <entry key="S60" value="0.05649368898988219" />
+      <entry key="M2" value="0.8230999147696748" />
+      <entry key="M5" value="5.482337348250488" />
+      <entry key="M10" value="11.282850954962203" />
+      <entry key="M15" value="15.42843389177633" />
+      <entry key="M30" value="26.116744995899236" />
+      <entry key="H1" value="45.06122641689174" />
+      <entry key="H2" value="71.02298131759602" />
+      <entry key="H4" value="95.64342535122545" />
+      <entry key="D1" value="127.75023301557296" />
+      <entry key="W1" value="134.77664364570305" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.007442484359718262" />
-      <entry key="MS500" value="0.3752700432128161" />
-      <entry key="S2" value="0.8283831600834997" />
-      <entry key="S5" value="1.6033235405859942" />
-      <entry key="S10" value="2.899779831215786" />
-      <entry key="S30" value="6.726458876634712" />
-      <entry key="S60" value="13.344100858903538" />
-      <entry key="M2" value="27.359843474463904" />
-      <entry key="M5" value="53.506859635569434" />
-      <entry key="M10" value="76.84885494130647" />
-      <entry key="M15" value="97.15381732674432" />
-      <entry key="M30" value="158.7649797687846" />
-      <entry key="H1" value="272.2141692697991" />
-      <entry key="H2" value="419.96969700828663" />
-      <entry key="H4" value="551.1147986697523" />
-      <entry key="D1" value="712.1094323476443" />
-      <entry key="W1" value="746.118409633136" />
+      <entry key="MS100" value="0.7684376045472812" />
+      <entry key="MS500" value="0.9755144850291336" />
+      <entry key="S2" value="1.39163765415958" />
+      <entry key="S5" value="1.691157417129273" />
+      <entry key="S10" value="1.8352706406271795" />
+      <entry key="S30" value="2.2712965525472777" />
+      <entry key="S60" value="3.6787615622226397" />
+      <entry key="M2" value="8.874605641619619" />
+      <entry key="M5" value="27.452418634247586" />
+      <entry key="M10" value="48.08954097225787" />
+      <entry key="M15" value="64.7040766320762" />
+      <entry key="M30" value="117.06482975838338" />
+      <entry key="H1" value="227.16570177756793" />
+      <entry key="H2" value="393.12148557256023" />
+      <entry key="H4" value="557.7022369589345" />
+      <entry key="D1" value="777.7813907743456" />
+      <entry key="W1" value="826.5009727153111" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -110,49 +134,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DefaultDemo.executor": "Run",
-    "Application.Demo1.executor": "Run",
-    "Application.EmployeeData.executor": "Run",
-    "Application.IdentityMatrix.executor": "Run",
-    "Application.JaggedArray.executor": "Run",
-    "Application.MatrixDemo.executor": "Run",
-    "Application.MatrixSum.executor": "Run",
-    "Application.OverloadingConst.executor": "Run",
-    "Application.ParaConst.executor": "Run",
-    "Application.RowColSum.executor": "Run",
-    "Application.SpiralMatrix.executor": "Run",
-    "Application.StudentDemo1.executor": "Run",
-    "Application.StudentInfo.executor": "Run",
-    "Application.StudentInfo1.executor": "Run",
-    "Application.StudentTestApp1.executor": "Run",
-    "Application.TestApp1.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DefaultDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IdentityMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverloadingConst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParaConst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Product.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RowColSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiralMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentInfo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentInfo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTestApp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestApp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThisComst.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThisConst.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion.inline&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.258" />
       </set>
     </attachedChunks>
   </component>
@@ -173,6 +201,11 @@
       <workItem from="1784284814290" duration="2293000" />
       <workItem from="1784287137764" duration="966000" />
       <workItem from="1784543960769" duration="2895000" />
+      <workItem from="1784607059532" duration="93000" />
+      <workItem from="1784607170859" duration="202000" />
+      <workItem from="1784607637437" duration="2700000" />
+      <workItem from="1784630070508" duration="1871000" />
+      <workItem from="1784631974080" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="Loop">
       <option name="closed" value="true" />

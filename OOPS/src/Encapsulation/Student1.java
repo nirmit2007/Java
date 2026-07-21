@@ -1,4 +1,4 @@
-package Encapsulation2;
+package Constructor;
 
 public class Student
 {
